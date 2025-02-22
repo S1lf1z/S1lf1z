@@ -11,4 +11,4 @@
 
 ## 💬 ¡Conéctate conmigo!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/981969441875169360)](https://discord.com/users/1192236348808101908)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1323084017502912522)](https://discord.com/users/1192236348808101908)
