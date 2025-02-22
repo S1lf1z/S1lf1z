@@ -8,7 +8,8 @@ Soy un/a **desarrollador/a** apasionado/a por la tecnología, con experiencia en
 
 - **Lenguajes de programación**:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/512px-Python-logo-notext.svg.png" width="30" /> **Python**
-  - <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/C_Logo.svg/1200px-C_Logo.svg.png](https://images-ext-1.discordapp.net/external/kE7RJ1_tQM6ZB8DViegyvAugoPKx6A2v4JP3YGljRuM/%3Furl%3Dhttps%253A%252F%252Fdisenowebakus.net%252Fimagenes%252Fmaterias%252Flenguaje-de-programacion-c.jpg%26backup%3Dhttps%253A%252F%252Fencrypted-tbn0.gstatic.com%252Fimages%253Fq%253Dtbn%253AANd9GcStvZpakakSyynBrj6HjRUNSd7BZaumurRGfw%2526s/https/proxy.notsobot.com/google-images?format=webp)" width="30" /> **C**
+  - <img src="![image](https://github.com/user-attachments/assets/f2b725e3-859f-4939-a5a0-a645d491181f)
+" width="30" /> **C**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30" /> **C++**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/JavaScript_logo_2.svg/512px-JavaScript_logo_2.svg.png" width="30" /> **JavaScript**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo.svg/1024px-Go_Logo.svg.png" width="30" /> **Go**
