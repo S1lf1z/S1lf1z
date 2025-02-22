@@ -7,6 +7,6 @@
 
 ## 🔐 Ciberseguridad y Pentesting
 - 🛠️ **Pentesting**: Realización de pruebas de penetración para detectar vulnerabilidades.
-- 🔐 **Herramientas de seguridad**: Uso de herramientas como **Burp Suite**, **Metasploit**, y más.
+- 🔐 **Herramientas de seguridad**.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1323084017502912522)](https://discord.com/users/1192236348808101908)
