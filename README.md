@@ -8,11 +8,7 @@ Soy un/a **desarrollador/a** apasionado/a por la tecnología, con experiencia en
 
 - **Lenguajes de programación**:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/512px-Python-logo-notext.svg.png" width="30" /> **Python**
-  - <img src="![image](https://github.com/user-attachments/assets/f2b725e3-859f-4939-a5a0-a645d491181f)
-" width="30" /> **C**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30" /> **C++**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/JavaScript_logo_2.svg/512px-JavaScript_logo_2.svg.png" width="30" /> **JavaScript**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo.svg/1024px-Go_Logo.svg.png" width="30" /> **Go**
 
 - **Ciberseguridad y Pentesting**:
   - 🛠️ **Pentesting**: Realización de pruebas de penetración para detectar vulnerabilidades.
@@ -24,13 +20,12 @@ Aquí algunos de los proyectos más importantes que puedes encontrar en mi perfi
 
 1. **[Nombre del Proyecto 1]**: [Breve descripción del proyecto, por ejemplo: un script en Python para análisis de seguridad.]
 2. **[Nombre del Proyecto 2]**: [Breve descripción del proyecto, por ejemplo: un sistema de C++ para monitoreo de red.]
-3. **[Nombre del Proyecto 3]**: [Breve descripción del proyecto, por ejemplo: aplicación web con JavaScript y Node.js.]
 
 ## 🌱 Actualmente aprendiendo
 
 Siempre estoy buscando mejorar y aprender más, y en este momento me enfoco en:
 
-- Profundizar en **Go** para crear servicios más rápidos y eficientes.
+- Profundizar en **C++** para mejorar el rendimiento de mis aplicaciones.
 - Explorar más sobre **Ciberseguridad** y **Herramientas de Pentesting**.
 
 ## 💬 ¡Conectemos!
