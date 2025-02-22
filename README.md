@@ -11,4 +11,4 @@
 
 ## 💬 ¡Conéctate conmigo!
 
-Puedes ver mi estado de Discord [aquí](https://discord.com/users/1192236348808101908), o simplemente agregarme para ver mi actividad y estado.
+[![Discord Presence](https://lanyard.cnrad.dev/api/981969441875169360)](https://discord.com/users/1192236348808101908)
