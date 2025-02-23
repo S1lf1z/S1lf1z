@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lumina](https://github.com/S1lf1z/S1lf1z/Lumina)
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/PR3C14D0)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/S1lf1z/S1lf1z)
 
 - 🌐 idioma Brasil Br & Español Spanig
 
