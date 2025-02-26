@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Self$</h1>
 <h3 align="center">I'm a passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr3c14d0&label=Page%20Visitors&color=0e75b6&style=flat" alt="pr3c14d0" /> </p>
-
-- 🔭 I’m currently working on [Lumina](https://github.com/S1lf1z/S1lf1z/Lumina)
-
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/S1lf1z/S1lf1z)
-
-- 🌐 idioma Brasil Br & Español Spanig
-
 <p align="left">
 </p>
 
