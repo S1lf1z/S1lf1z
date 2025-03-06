@@ -44,12 +44,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="40" height="40"/>
 </p>
 
-<br/>
-
-<a href="https://discord.com/users/1192236348808101908">
-  <img src="https://lanyard.cnrad.dev/api/1192236348808101908?embed" alt="Discord RPC" />
-</a>
-
 
 
 
