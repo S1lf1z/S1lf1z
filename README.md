@@ -44,14 +44,15 @@
 </a>
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="40" height="40"/>
+  # Discord
+<br/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1192236348808101908)](https://discord.com/users/1192236348808101908)
+</a>
 </p>
 
 
 
 
-# Discord
-<br/>
-
-https://lanyard.cnrad.dev/api/1192236348808101908https://discord.com/users/1192236348808101908
 
 
