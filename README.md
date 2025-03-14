@@ -15,9 +15,6 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/.NET_Core_Logo_2019.svg/1200px-.NET_Core_Logo_2019.svg.png" alt=".NET" width="40" height="40"/>
-</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
@@ -44,11 +41,6 @@
 </a>
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="40" height="40"/>
-  # Discord
-<br/>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1192236348808101908)](https://discord.com/users/1192236348808101908)
-</a>
 </p>
 
 
