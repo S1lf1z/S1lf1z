@@ -31,4 +31,7 @@
     <a href="https://www.typescriptlang.org/docs/tsx/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="tsx" width="40" height="40" />
 </a>
+<a href="https://reactjs.org/docs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+</a>
     </p>
