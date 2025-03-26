@@ -69,6 +69,6 @@
 
 # 🔥 My Discord Status
 
-- **Status**: ![status](https://img.shields.io/badge/discord-Online-green)
-- **Currently Playing**: ![game](https://img.shields.io/badge/playing-Valorant-blue)
+![Discord Status](https://img.shields.io/badge/discord-online-brightgreen)
+
 
