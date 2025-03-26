@@ -67,7 +67,8 @@
 
 <br clear="both">
 
-# 🔥 Discord Status
+# 🔥 My Discord Status
 
-![Discord Status](https://discord.com/api/guilds/[SERVER_ID]/members/[.extraditado.]/widget.png)
+- **Status**: ![status](https://img.shields.io/badge/discord-Online-green)
+- **Currently Playing**: ![game](https://img.shields.io/badge/playing-Valorant-blue)
 
