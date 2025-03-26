@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images-ext-1.discordapp.net/external/oV9zV1TgDDeXikGkoJlGEt06_fYJ-LxQHT4dhbaYPYI/%3Fsize%3D2048/https/cdn.discordapp.com/banners/1192236348808101908/a_61c8d2fd47f095ef8be442db415ac6ce.gif?width=400&height=225"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -45,6 +45,12 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
