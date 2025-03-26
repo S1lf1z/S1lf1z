@@ -67,6 +67,7 @@
 
 <br clear="both">
 
-<h2 align="left">🔥   My Stats :</h2>
+# 🔥 Discord Status
 
-###
+![Discord Status](https://discord.com/api/guilds/[SERVER_ID]/members/[.extraditado.]/widget.png)
+
