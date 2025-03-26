@@ -67,8 +67,4 @@
 
 <br clear="both">
 
-# 🔥 My Discord Status
-
-![Discord Status](https://img.shields.io/badge/discord-online-brightgreen)
-
 
