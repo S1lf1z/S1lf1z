@@ -70,7 +70,7 @@
 </div>
 
 </div>
-<img height="80em" src="https://discord.c99.nl/widget/theme-4/698219671597482014.png"/>
+<img height="80em" src="https://discord.c99.nl/widget/theme-4/1192236348808101908.png"/>
 
 <br clear="both">
 
