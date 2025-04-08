@@ -69,8 +69,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S1lf1z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-</div>
-<img height="80em" src="https://discord.c99.nl/widget/theme-4/1192236348808101908.png"/>
 
 <br clear="both">
 
