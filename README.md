@@ -25,11 +25,11 @@
 
 ###
 
-<p align="left">Soy ... de .... 🇩🇴 <br><br>- 🔭 Estoy trabajando como ...<br>- 📚 Actualmente estoy aprendiendo ...<br>- ⚡ En mi tiempo libre ...</p>
+<p align="left">Soy ... de ....rd <br><br>- 🔭 Estoy trabajando como Desarrolador Weeb ...<br>- ⚡ En mi tiempo libre ...</p>
 
 ###
 
-<h3 align="left">🛠 Lenguajes y herramientas</h3>
+<h3 align="left">🛠 Lenguajes </h3>
 
 ###
 
