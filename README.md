@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Soy ... de ....rd <br><br>- 🔭 Estoy trabajando como Desarrolador Weeb ...<br>- ⚡ En mi tiempo libre ...</p>
+<p align="left">Soy ... de ....rd <br> ⚡ Backend Developer ...</p>
 
 ###
 
