@@ -21,11 +21,11 @@
 
 ###
 
-<h3 align="left">👩‍💻 Sobre mí</h3>
+<h3 align="left">👩‍💻 Algo Sobre mí</h3>
 
 ###
 
-<p align="left">Soy ... de ....rd <br> ⚡ Backend Developer ...</p>
+<p align="left">Soy ... de ....rd <br> ⚡ Backend & Malware Developer ...</p>
 
 ###
 
