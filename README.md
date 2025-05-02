@@ -17,11 +17,11 @@
 
 ###
 
-<h1 align="center">hola Soy Self§ 👋</h1>
+<h1 align="center">! everyone👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 Algo Sobre mí</h3>
+<h3 align="left">👩‍💻 Something about me</h3>
 
 ###
 
