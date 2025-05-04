@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left"> 🇩🇴 Soy ... de ....rd <br> ⚡ Backend & Malware Dev ...</p>
+<p align="left"> 🇩🇴 Nationalidad <br> ⚡ Backend & Malware Dev ...</p>
 
 ###
 
