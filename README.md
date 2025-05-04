@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left"> 🇩🇴 Soy ... de ....rd <br> ⚡ Web Developer ...</p>
+<p align="left"> 🇩🇴 Soy ... de ....rd <br> ⚡ Backend & Malware Dev ...</p>
 
 ###
 
