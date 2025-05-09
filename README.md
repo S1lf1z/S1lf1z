@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left"> 🇩🇴 Nationalida <br> ⚡ Backend & Malware Dev ...</p>
+<p align="left"> 🇩🇴 Nationalida <br> ⚡ Frontend & Backend dev...</p>
 
 ###
 
